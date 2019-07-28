@@ -3,7 +3,7 @@
 #
 remote_theme: LeakyAbstractions/pretty-docs
 url: https://aaronrothschild.github.io
-baseurl: /pretty-docs
+baseurl: /jira-docs
 title: &site_title Mattermost jira plugin
 description: &site_description Integrate Mattermost with your jira workflow
 branding:
