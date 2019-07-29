@@ -14,10 +14,7 @@ navigation:
   - /charts
   - /faqs
   - /showcase
-  - /credits
-  - /news
-  - /community
-  - /legal
+
 ---
 
 Welcome to prettyDocs.
