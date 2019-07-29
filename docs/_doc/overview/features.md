@@ -17,7 +17,14 @@ Notify your team of the latest updates by sending notifications from your Jira p
 ![image](https://user-images.githubusercontent.com/13119842/59113138-7f51e180-8912-11e9-9fc5-3077ba90a8a8.png)
 
 
+<div class="screenshot-holder">
 
+[![screenshot](assets/images/demo/appkit-chart-chartjs.jpg){: .img-responsive}](https://user-images.githubusercontent.com/13119842/59113100-6cd7a800-8912-11e9-9e23-3639c0eb9c4d.png)  
+[*&nbsp;*{: .icon .fa .fa-link}](){: .mask}
+  
+
+  
+</div>
 
 
 ## Create Jira issues
