@@ -9,7 +9,6 @@ navigation:
   - /install
   - /faqs
   - /develop
-
 ---
 
 This plugin supports a two-way integration between Mattermost and Atlassian Jira. 
