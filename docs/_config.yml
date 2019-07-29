@@ -61,7 +61,7 @@ share:
     text: &site_description
     title: Tweet
   github:
-    repo: LeakyAbstractions/pretty-docs
+    repo: aaronrothschild/jira-docs
     position: right
     color: red
 
