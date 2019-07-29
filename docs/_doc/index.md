@@ -26,3 +26,5 @@ This plugin supports Jira Core and Jira Software products, for Server, Data Cent
 
 [LASTRELEASE]: https://github.com/mattermost/mattermost-plugin-jira/releases
 [GHPAGES]: https://github.com/mattermost/mattermost-plugin-jira/
+
+
