@@ -1,7 +1,13 @@
 ---
 title: Features
+sections:
+- Jira Notifications
+- Create Jira Issues
+- Attach Messages to Jira Issues
+- Transition Jira issues
 ---
 
+## Jira Notifications
 ### Send notifications from Jira to Mattermost
 
 Notify your team of the latest updates by sending notifications from your Jira projects to Mattermost channels.
@@ -14,7 +20,7 @@ Notify your team of the latest updates by sending notifications from your Jira p
 
 
 
-#### Create Jira issues
+## Create Jira issues
 
 Create Jira issues from a Mattermost message by clicking the **More Actions** (...) option of any message in the channel (available when you hover over a message), then selecting **Create Jira Issue**.
 
@@ -28,12 +34,12 @@ Click **Create** and the Jira issue is now created, including any file attachmen
 
 
 
-#### Attach Messages to Jira Issues
+### Attach Messages to Jira Issues
 
 Keep all information in one place by attaching parts of Mattermost conversations in Jira issues as comments. 
 
 
-#### Transition Jira issues
+### Transition Jira issues
 
 Transition issues without the need to switch to your Jira project. To transition an issue, use the `/jira transition <issue-key> <state>` command.
 

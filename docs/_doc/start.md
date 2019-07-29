@@ -11,4 +11,5 @@ sections:
   - /start/slash_commands
   - /start/subscriptions
   - /start/notifications
+  - /start/transition
 ---
