@@ -7,4 +7,5 @@ icon:
 color: blue
 sections:
   - /faqs/general
+  
 ---
