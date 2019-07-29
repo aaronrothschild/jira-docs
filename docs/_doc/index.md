@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Mattermost Plugin { site.plugin_name }
+title: Mattermost Plugin { site.plugin_name } 
 tagline: 
   Designed for devOps
 heading: Extend your Mattermost experience!
