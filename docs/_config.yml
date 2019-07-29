@@ -63,7 +63,7 @@ share:
   github:
     repo: aaronrothschild/jira-docs
     position: right
-    color: red
+    color: green
 
 
 # Google Analytics
