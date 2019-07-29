@@ -9,9 +9,9 @@ description: &site_description Integrate Mattermost with your jira workflow
 branding:
   icon:
     name: icon_documents_alt
-  highlight: Mattermost
-  bold: jira plugin
-plugin_name: jira 
+  highlight: Atlassian Jira
+  bold: plugin
+plugin_name: jiraX 
 
 markdown: kramdown
 kramdown:
@@ -32,8 +32,8 @@ owner:
   name: Aaron Rothschild
   twitter: &site_owner_twitter mattermost
   copyright:
-    notice: Lorem Ipsum
-    author: "[Guillermo Calvo](https://guillermo.in/)"
+    notice: 
+    author: "[mattermost](https://mattermost.com/)"
 
 
 #
