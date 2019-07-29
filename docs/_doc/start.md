@@ -1,5 +1,5 @@
 ---
-title: Start
+title: Quick Start
 excerpt: Demo example, consectetuer adipiscing elit
 date: 2016-01-25
 icon:
@@ -11,5 +11,4 @@ sections:
   - /start/slash_commands
   - /start/subscriptions
   - /start/notifications
-
 ---

@@ -1,10 +1,10 @@
 ---
 layout: home
-title: Mattermost Plugin { site.plugin_name } 
-tagline: 
-  Designed for devOps
-heading: Extend your Mattermost experience!
+title: Mattermost jira plugin
+tagline:
+heading: 
 navigation:
+  - /overview
   - /start
   - /install
   - /faqs
