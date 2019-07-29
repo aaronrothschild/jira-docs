@@ -1,7 +1,7 @@
 #
 # Site settings
 #
-remote_theme: LeakyAbstractions/pretty-docs
+remote_theme: aaronrothschild/mattermost-plugin-docs-theme
 url: https://aaronrothschild.github.io
 baseurl: /jira-docs
 title: &site_title Mattermost jira plugin
