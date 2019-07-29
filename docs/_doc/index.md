@@ -17,7 +17,7 @@ navigation:
 
 ---
 
-Welcome to prettyDocs.
+Welcome to JIRADocs.
 This landing page is an example of how you can use a card view to present segments of your documentation.
 You can customise the icon fonts based on your needs.
 
