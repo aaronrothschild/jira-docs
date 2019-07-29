@@ -5,7 +5,7 @@ tagline:
   Designed for devOps
 heading: Extend your Mattermost experience!
 navigation:
-  - /quickstart
+  - /start
   - /install
   - /faqs
   - /develop
