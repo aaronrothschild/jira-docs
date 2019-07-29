@@ -1,12 +1,8 @@
 ---
 layout: home
-title: Home
-tagline: |
-  Free Bootstrap theme for your project documentation
-  
-  Designed with *&nbsp;*{: .fa .fa-heart} for developers
-  
-  Ready to use in *&nbsp;*{: .fa .fa-github} Github Pages
+title: Mattermost Plugin NAME
+tagline: 
+  Designed with *&nbsp;*{: .fa .fa-heart} for devOps
 heading: Getting started is easy!
 navigation:
   - /quickstart

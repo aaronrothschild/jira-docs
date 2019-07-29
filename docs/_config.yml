@@ -11,6 +11,8 @@ branding:
     name: icon_documents_alt
   highlight: Mattermost
   bold: jira plugin
+plugin_name: jira 
+
 markdown: kramdown
 kramdown:
   auto_ids: true

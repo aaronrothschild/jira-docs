@@ -1,10 +1,10 @@
 ---
-title: Charts
+title: Quickstart
 excerpt: Lorem ipsum dolor sit amet, consectetuer adipiscing elit
 date: 2016-01-25
 icon:
   name: icon_datareport_alt
-color: blue
+color: darkblue
 sections:
   - /charts/chart_js
   - /charts/flot_charts
