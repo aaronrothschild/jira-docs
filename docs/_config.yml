@@ -6,12 +6,13 @@ url: https://aaronrothschild.github.io
 baseurl: /jira-docs
 title: &site_title Mattermost jira plugin
 description: &site_description Integrate Mattermost with your jira workflow
+plugin_name: jiraX
 branding:
   icon:
     name: icon_documents_alt
   highlight: Atlassian Jira
-  bold: plugin
-plugin_name: jiraX 
+  bold: 
+   
 
 markdown: kramdown
 kramdown:
