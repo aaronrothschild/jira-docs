@@ -1,6 +1,6 @@
 ---
 title: Quickstart
-excerpt: Lorem ipsum dolor sit amet, consectetuer adipiscing elit
+excerpt: Get started with the { site.plugin_name } plugin
 date: 2016-01-25
 icon:
   name: icon_datareport_alt

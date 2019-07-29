@@ -1,9 +1,9 @@
 ---
 layout: home
-title: Mattermost Plugin NAME
+title: Mattermost Plugin { site.plugin_name }
 tagline: 
-  Designed with *&nbsp;*{: .fa .fa-heart} for devOps
-heading: Getting started is easy!
+  Designed for devOps
+heading: Extend your Mattermost experience!
 navigation:
   - /quickstart
   - /install
